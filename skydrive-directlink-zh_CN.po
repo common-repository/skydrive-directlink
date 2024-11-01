@@ -1,0 +1,234 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: skydrive-directlink\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-05-21 00:31+0800\n"
+"PO-Revision-Date: 2011-05-21 00:31+0800\n"
+"Last-Translator: flarefox <flarefox@163.com>\n"
+"Language-Team: http://mathelite.cn <flarefox@163.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: skydrive-directlink-class.php:42
+msgid "Error: Cannot find any direct link for the skydrive file: "
+msgstr "错误: 无法找到任何外链匹配于: "
+
+#: skydrive-directlink-class.php:174
+msgid "Load Time(no cache)"
+msgstr "耗时(无缓存)"
+
+#: skydrive-directlink-class.php:175
+#: skydrive-directlink-class.php:181
+#: skydrive-directlink-class.php:187
+msgid " seconds"
+msgstr " 秒"
+
+#: skydrive-directlink-class.php:180
+msgid "Load Time(cache and validate)"
+msgstr "耗时(缓存并验证)"
+
+#: skydrive-directlink-class.php:186
+msgid "Load Time(cache only)"
+msgstr "耗时(仅缓存)"
+
+#: skydrive-directlink-class.php:189
+msgid "Direct Link"
+msgstr "外部链接"
+
+#: skydrive-directlink-class.php:190
+msgid "Cannot find."
+msgstr "未找到."
+
+#: skydrive-directlink-class.php:192
+msgid "File Size"
+msgstr "文件大小"
+
+#: skydrive-directlink-class.php:193
+msgid "File Type"
+msgstr "文件类型"
+
+#: skydrive-directlink-options.php:32
+msgid "Skydrive Directlink Options"
+msgstr "Skydrive directlink设定"
+
+#: skydrive-directlink-options.php:37
+msgid "Updated"
+msgstr "已更新"
+
+#: skydrive-directlink-options.php:42
+msgid "No Skydrive Directlink Option Updated"
+msgstr "Skydrive directlink设定未更新。"
+
+#: skydrive-directlink-options.php:58
+msgid "Please input a correct skydrive url."
+msgstr "请输入一个正确的SkyDrive地址."
+
+#: skydrive-directlink-options.php:74
+#: skydrive-directlink-options.php:149
+msgid "Disabled"
+msgstr "禁用"
+
+#: skydrive-directlink-options.php:80
+msgid "Y-m-j H:i"
+msgstr "Y年m月j日 H点i分"
+
+#: skydrive-directlink-options.php:91
+msgid "Skydrive Directlink Option Page"
+msgstr "Skydrive Directlink设定页"
+
+#: skydrive-directlink-options.php:93
+msgid "Information"
+msgstr "使用说明"
+
+#: skydrive-directlink-options.php:94
+msgid "Skydrive directlink plugin can auto update the outer link of a skydrive file."
+msgstr "Skydrive directlink插件可以自动更新一个skydrive文件的外链。"
+
+#: skydrive-directlink-options.php:95
+msgid "Usage"
+msgstr "使用方法"
+
+#: skydrive-directlink-options.php:96
+msgid "url to skydrive file download page"
+msgstr "Skydrive文件下载页面的URL地址"
+
+#: skydrive-directlink-options.php:98
+msgid "Examples"
+msgstr "示例"
+
+#: skydrive-directlink-options.php:100
+msgid "(Default url will be auto added)"
+msgstr "(默认链接地址将被自动加入)"
+
+#: skydrive-directlink-options.php:101
+msgid "Options"
+msgstr "选项"
+
+#: skydrive-directlink-options.php:106
+msgid "Default Url"
+msgstr "默认链接地址"
+
+#: skydrive-directlink-options.php:118
+msgid "Cache mode"
+msgstr "缓存模式"
+
+#: skydrive-directlink-options.php:121
+msgid "Cache and validate"
+msgstr "缓存并验证"
+
+#: skydrive-directlink-options.php:122
+msgid "Cache only"
+msgstr "只使用缓存"
+
+#: skydrive-directlink-options.php:123
+msgid "No Cache"
+msgstr "关闭缓存"
+
+#: skydrive-directlink-options.php:130
+msgid "Page Load Time Limit(Seconds)"
+msgstr "Skydrive页面分析超时时间（秒）"
+
+#: skydrive-directlink-options.php:141
+msgid "Auto Update Cycle"
+msgstr "自动更新周期"
+
+#: skydrive-directlink-options.php:150
+msgid "Minutes"
+msgstr "分钟"
+
+#: skydrive-directlink-options.php:151
+msgid "Hours"
+msgstr "小时"
+
+#: skydrive-directlink-options.php:152
+msgid "Days"
+msgstr "天"
+
+#: skydrive-directlink-options.php:153
+msgid "Weeks"
+msgstr "周"
+
+#: skydrive-directlink-options.php:159
+msgid "Update options"
+msgstr "保存设定"
+
+#: skydrive-directlink-options.php:165
+msgid "Skydrive Direct Links Info"
+msgstr "Skydrive链接信息"
+
+#: skydrive-directlink-options.php:169
+msgid "Links Count:"
+msgstr "总链接数:"
+
+#: skydrive-directlink-options.php:176
+msgid "Next Refresh Time: "
+msgstr "下次更新时间:"
+
+#: skydrive-directlink-options.php:180
+msgid "Update Now"
+msgstr "立即更新"
+
+#: skydrive-directlink-options.php:191
+msgid "Skydrive Connection Test"
+msgstr "Skydrive连接测试"
+
+#: skydrive-directlink-options.php:194
+msgid "Test URL Address:"
+msgstr "测试链接地址:"
+
+#: skydrive-directlink-options.php:205
+msgid "Start Test"
+msgstr "开始测试"
+
+#: skydrive-directlink-options.php:207
+#, php-format
+msgid "Skydrive directlink plugin by %s"
+msgstr "Skydrive directlink插件，作者：%s."
+
+#: skydrive-directlink.php:41
+msgid "Skydrive Directlink"
+msgstr "Skydrive Directlink"
+
+#: skydrive-directlink.php:41
+msgid "Skydrive directlink"
+msgstr "Skydrive directlink"
+
+#: skydrive-directlink.php:76
+msgid "Customed cycle for automatically updating skydrive links"
+msgstr "为自动更新skydrive链接而自定义的时间周期"
+
+#~ msgid "Rough location string"
+#~ msgstr "粗略定位字符串"
+
+#~ msgid "Accurate location start string"
+#~ msgstr "精确定位起始字符串"
+
+#~ msgid "Accurate location end string"
+#~ msgstr "精确定位结尾字符串"
+
+#~ msgid "Special options"
+#~ msgstr "特殊选项"
+
+#~ msgid ""
+#~ "NOTE: If you don't know the exact meaning of this section, please DO NOT "
+#~ "modify it."
+#~ msgstr "注：若你不知道特殊选项的功能，请不要修改它们。"
+
+#~ msgid "Hook Priority"
+#~ msgstr "钩子优先级"
+
+#~ msgid "Latest version available"
+#~ msgstr "有可用的最新版本"
+
+#~ msgid "Skydrive directlink options saved."
+#~ msgstr "Skydrive directlink设定已更新。"
+
+#~ msgid "Related"
+#~ msgstr "相关资源"

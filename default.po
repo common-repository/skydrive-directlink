@@ -1,0 +1,206 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: skydrive-directlink\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-05-21 00:31+0800\n"
+"PO-Revision-Date: 2011-05-21 00:31+0800\n"
+"Last-Translator: flarefox <flarefox@163.com>\n"
+"Language-Team: http://mathelite.cn <flarefox@163.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: skydrive-directlink-class.php:42
+msgid "Error: Cannot find any direct link for the skydrive file: "
+msgstr ""
+
+#: skydrive-directlink-class.php:174
+msgid "Load Time(no cache)"
+msgstr ""
+
+#: skydrive-directlink-class.php:175
+#: skydrive-directlink-class.php:181
+#: skydrive-directlink-class.php:187
+msgid " seconds"
+msgstr ""
+
+#: skydrive-directlink-class.php:180
+msgid "Load Time(cache and validate)"
+msgstr ""
+
+#: skydrive-directlink-class.php:186
+msgid "Load Time(cache only)"
+msgstr ""
+
+#: skydrive-directlink-class.php:189
+msgid "Direct Link"
+msgstr ""
+
+#: skydrive-directlink-class.php:190
+msgid "Cannot find."
+msgstr ""
+
+#: skydrive-directlink-class.php:192
+msgid "File Size"
+msgstr ""
+
+#: skydrive-directlink-class.php:193
+msgid "File Type"
+msgstr ""
+
+#: skydrive-directlink-options.php:32
+msgid "Skydrive Directlink Options"
+msgstr ""
+
+#: skydrive-directlink-options.php:37
+msgid "Updated"
+msgstr ""
+
+#: skydrive-directlink-options.php:42
+msgid "No Skydrive Directlink Option Updated"
+msgstr ""
+
+#: skydrive-directlink-options.php:58
+msgid "Please input a correct skydrive url."
+msgstr ""
+
+#: skydrive-directlink-options.php:74
+#: skydrive-directlink-options.php:149
+msgid "Disabled"
+msgstr ""
+
+#: skydrive-directlink-options.php:80
+msgid "Y-m-j H:i"
+msgstr ""
+
+#: skydrive-directlink-options.php:91
+msgid "Skydrive Directlink Option Page"
+msgstr ""
+
+#: skydrive-directlink-options.php:93
+msgid "Information"
+msgstr ""
+
+#: skydrive-directlink-options.php:94
+msgid "Skydrive directlink plugin can auto update the outer link of a skydrive file."
+msgstr ""
+
+#: skydrive-directlink-options.php:95
+msgid "Usage"
+msgstr ""
+
+#: skydrive-directlink-options.php:96
+msgid "url to skydrive file download page"
+msgstr ""
+
+#: skydrive-directlink-options.php:98
+msgid "Examples"
+msgstr ""
+
+#: skydrive-directlink-options.php:100
+msgid "(Default url will be auto added)"
+msgstr ""
+
+#: skydrive-directlink-options.php:101
+msgid "Options"
+msgstr ""
+
+#: skydrive-directlink-options.php:106
+msgid "Default Url"
+msgstr ""
+
+#: skydrive-directlink-options.php:118
+msgid "Cache mode"
+msgstr ""
+
+#: skydrive-directlink-options.php:121
+msgid "Cache and validate"
+msgstr ""
+
+#: skydrive-directlink-options.php:122
+msgid "Cache only"
+msgstr ""
+
+#: skydrive-directlink-options.php:123
+msgid "No Cache"
+msgstr ""
+
+#: skydrive-directlink-options.php:130
+msgid "Page Load Time Limit(Seconds)"
+msgstr ""
+
+#: skydrive-directlink-options.php:141
+msgid "Auto Update Cycle"
+msgstr ""
+
+#: skydrive-directlink-options.php:150
+msgid "Minutes"
+msgstr ""
+
+#: skydrive-directlink-options.php:151
+msgid "Hours"
+msgstr ""
+
+#: skydrive-directlink-options.php:152
+msgid "Days"
+msgstr ""
+
+#: skydrive-directlink-options.php:153
+msgid "Weeks"
+msgstr ""
+
+#: skydrive-directlink-options.php:159
+msgid "Update options"
+msgstr ""
+
+#: skydrive-directlink-options.php:165
+msgid "Skydrive Direct Links Info"
+msgstr ""
+
+#: skydrive-directlink-options.php:169
+msgid "Links Count:"
+msgstr ""
+
+#: skydrive-directlink-options.php:176
+msgid "Next Refresh Time: "
+msgstr ""
+
+#: skydrive-directlink-options.php:180
+msgid "Update Now"
+msgstr ""
+
+#: skydrive-directlink-options.php:191
+msgid "Skydrive Connection Test"
+msgstr ""
+
+#: skydrive-directlink-options.php:194
+msgid "Test URL Address:"
+msgstr ""
+
+#: skydrive-directlink-options.php:205
+msgid "Start Test"
+msgstr ""
+
+#: skydrive-directlink-options.php:207
+#, php-format
+msgid "Skydrive directlink plugin by %s"
+msgstr ""
+
+#: skydrive-directlink.php:41
+msgid "Skydrive Directlink"
+msgstr ""
+
+#: skydrive-directlink.php:41
+msgid "Skydrive directlink"
+msgstr ""
+
+#: skydrive-directlink.php:76
+msgid "Customed cycle for automatically updating skydrive links"
+msgstr ""
+
